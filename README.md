@@ -1,6 +1,6 @@
 # classification-algorithms-comparison
 Comparison of Logistic Regression, Decision Tree, Random Forest, SVM, KNN, and Naive Bayes using the Iris dataset and Precision, Recall, and Accuracy metrics.
-# Experiment No. 8: Comparison of Classification Algorithms
+Comparison of Classification Algorithms
 
 ## Aim
 To implement and compare multiple machine learning classification algorithms on a common dataset and evaluate their performance using Precision, Recall, and Accuracy.
